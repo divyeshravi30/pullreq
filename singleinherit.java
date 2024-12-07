@@ -9,10 +9,10 @@ class one
 			int c;
 			Scanner obj1 = new Scanner(System.in);
 
-			System.out.print("Enter the Number :");
+			System.out.print("Enter Number :");
 			int a = obj1.nextInt();
 
-			System.out.print("Enter the Number :");
+			System.out.print("Enter Number :");
 			int b = obj1.nextInt();
 
 			c = a+b;
@@ -27,10 +27,10 @@ class two extends one
 		{
 		int f;
 		Scanner obj2 = new Scanner(System.in);
-		System.out.print("Enter the Number :");
+		System.out.print("Enter Number :");
 		int d = obj2.nextInt();
 	
-		System.out.print("Enter the Number :");
+		System.out.print("Enter Number :");
 		int e = obj2.nextInt();
 
 		f = d-e;
