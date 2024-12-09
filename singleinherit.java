@@ -9,10 +9,10 @@ class one
 			int c;
 			Scanner obj1 = new Scanner(System.in);
 
-			System.out.print("Enter Number :");
+			System.out.print("Enter the Number :");
 			int a = obj1.nextInt();
 
-			System.out.print("Enter Number :");
+			System.out.print("Enter the Number :");
 			int b = obj1.nextInt();
 
 			c = a+b;
